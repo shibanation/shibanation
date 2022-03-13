@@ -1,5 +1,6 @@
 Shiba Nation Smart Contract (SIANA)
 Version V0.8.12
+
 INTRODUCTION
 ------------
 What is a smart contract?
